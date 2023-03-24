@@ -25,11 +25,13 @@ public class JavaApplication14Ejerc4Enc2 {
         System.out.println("ingresa tu temperatura ");
         //int temp = entrada.nextInt();
         double temp = entrada.nextDouble();
-        Double grados = 32 + (9  *temp / 5); 
+        Double grados = 32 + (9  *temp / 5);
+        
        // int mult2 = num1 * 2;
        // int mult3 = num1 * 3;
         //double raiz =  Math.sqrt(num1);
         System.out.println("la temperatura es F :" + grados);
+        System.out.println("este es un mensaje nuevo mi amigos");
     }
     
 }
