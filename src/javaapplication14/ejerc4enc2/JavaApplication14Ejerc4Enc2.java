@@ -32,6 +32,7 @@ public class JavaApplication14Ejerc4Enc2 {
         //double raiz =  Math.sqrt(num1);
         System.out.println("la temperatura es F :" + grados);
         System.out.println("este es un mensaje nuevo mi amigos");
+        System.out.println("lo primero es lo primero");
     }
     
 }
